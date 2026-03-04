@@ -3,3 +3,7 @@
 
 # Large CSV data files
 *.csv
+*.html
+*.npy
+preprocessing/nodes.html
+model_development/data/
